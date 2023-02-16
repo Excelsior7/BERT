@@ -432,8 +432,7 @@ plt.ylabel("counts");
 
 
     
-![png](output_49_0.png)
-    
+![png](./plots/bert_fig1.png)    
 
 
 
@@ -956,7 +955,7 @@ plt.legend(["MLM LOSS", "NSP LOSS"]);
 
 
     
-![png](output_93_0.png)
+![png](./plots/bert_fig2.png)
     
 
 
